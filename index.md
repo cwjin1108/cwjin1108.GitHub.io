@@ -1,8 +1,11 @@
 ## Welcome to Chanwoo's Pages
 
-I am a new Joint Doctoral Program student in department of Geography at San Diego State University and UC Santa Barbara.</s>
-My research interestes are Big Data (Social media data), Geocomputation, Spatio-temporal Statistical Modeling, and Human dynamics.</s>
-I am going to upload some codes of R, python, and Javascript on this pages.</s>
+I am a new Joint Doctoral Program student in department of Geography at San Diego State University and UC Santa Barbara.
+
+My research interestes are Big Data (Social media data), Geocomputation, Spatio-temporal Statistical Modeling, and Human dynamics.
+
+I am going to upload some codes of R, python, and Javascript on this pages.
+
 Any kinds of questions and recommendations are welcome!</s>
 
 ### Markdown
