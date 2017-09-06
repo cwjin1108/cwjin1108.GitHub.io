@@ -3,7 +3,7 @@
 I am a new Joint Doctoral Program student in department of Geography at San Diego State University and UC Santa Barbara.<br/>
 
 My research interestes are Big Data (Social media data), Geocomputation, Spatio-temporal Statistical Modeling, and Human dynamics.<br/>
-I am going to upload some codes of R, python, and Javascript on this pages.
+I am going to share some codes of R, python, and Javascript on this pages.
 
 Any kinds of questions and recommendations are welcome!
 
@@ -20,33 +20,4 @@ Here is a list:
 * **Jin, C.**, and Lee, G. (2015). Optimal Location Modeling for Happy Houses. *Journal of the Korean Urban Geographical Society, 18(2)*, 81-95.
 * **Jin, C.**, and Lee, G. (2014). Spatial Hedonic Modeling Using Geographically Weighted LASSO Model, *Journal of the Korean Geographical Society, 49(6)*, 917-934.
 
-
-I hope I could open my source code, which I used for analysis
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cwjin1108/cwjin1108.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I hope I could share my codes soon!
