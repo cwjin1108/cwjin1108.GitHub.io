@@ -1,5 +1,7 @@
 # Welcome to Chanwoo's Pages
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 I am a new Joint Doctoral Program student in department of Geography at San Diego State University and UC Santa Barbara.<br/>
 
 My research interestes are Big Data (Social media data), Geocomputation, Spatio-temporal Statistical Modeling, and Human dynamics.<br/>
