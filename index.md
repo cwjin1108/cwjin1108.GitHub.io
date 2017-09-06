@@ -1,7 +1,5 @@
 # Welcome to Chanwoo's Pages
 
-![Image of Chanwoo Jin](http://cwjin1108.GitHub.io/Chanwoo Jin.jpg)
-
 I am a new Joint Doctoral Program student in department of Geography at San Diego State University and UC Santa Barbara.<br/>
 
 My research interestes are Big Data (Social media data), Geocomputation, Spatio-temporal Statistical Modeling, and Human dynamics.<br/>
