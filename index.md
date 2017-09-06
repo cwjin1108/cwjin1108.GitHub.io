@@ -20,4 +20,4 @@ Here is a list:
 * **Jin, C.**, and Lee, G. (2015). Optimal Location Modeling for Happy Houses. *Journal of the Korean Urban Geographical Society, 18(2)*, 81-95.
 * **Jin, C.**, and Lee, G. (2014). Spatial Hedonic Modeling Using Geographically Weighted LASSO Model, *Journal of the Korean Geographical Society, 49(6)*, 917-934.
 
-I hope I could share my codes soon!
+## I hope I could share my codes soon!
