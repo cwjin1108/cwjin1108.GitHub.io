@@ -11,7 +11,7 @@ Any kinds of questions and recommendations are welcome!
 
 I have published M.A. thesis and 5 papers (3 papers with first author) in Korean peer-review Journals, and most of them are related to analysis of real estate market in Seoul using (usually) R.
 
-Here is a list:
+**Here is a list:**
 * M.A. Thesis: Analysis of the Spatio-temporal Interaction Patterns of the Housing Sales and Rent Price Using SpVAR-Lasso
 
 * Lee, G., **Jin, C.**, Kim, J., and Kim, W. (2016). A Study on the Characteristics of the Spatial Distribution of Sex Crimes. *Journal of the Korean Geographical Society, 51(6)*, 853-871.
